@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-react-nep/static/css/main.62e0e37e.css",
+    "main.js": "/movies-react-nep/static/js/main.640e72fd.js",
+    "index.html": "/movies-react-nep/index.html",
+    "main.62e0e37e.css.map": "/movies-react-nep/static/css/main.62e0e37e.css.map",
+    "main.640e72fd.js.map": "/movies-react-nep/static/js/main.640e72fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62e0e37e.css",
+    "static/js/main.640e72fd.js"
+  ]
+}
